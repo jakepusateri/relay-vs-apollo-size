@@ -1,0 +1,30 @@
+{
+  "name": "relay-vs-apollo-size",
+  "version": "1.0.0",
+  "description": "A size comparison of relay and apollo-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-client": "^0.4.13",
+    "babel-relay-plugin": "^0.9.2",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-relay": "^0.9.2",
+    "uglify-js": "^2.7.3",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakepusateri/relay-vs-apollo-size.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakepusateri/relay-vs-apollo-size/issues"
+  },
+  "homepage": "https://github.com/jakepusateri/relay-vs-apollo-size#readme"
+}
