@@ -5,7 +5,7 @@ A `react` + `react-dom` base is used as a comparison. Each library is then added
 Run `sh sizes.sh` to generate:
 ```
 React base size is: 43KiB
-Marginal size of relay after min and gzip: 74KiB
-Marginal size of apollo after min and gzip: 23KiB
-Marginal size of lokka after min and gzip: 229KiB
+Marginal size of relay-classic after min and gzip: 78KiB
+Marginal size of relay-modern after min and gzip: 32KiB
+Marginal size of apollo after min and gzip: 25KiB
 ```

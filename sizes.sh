@@ -9,6 +9,6 @@ webpackMinGzip () {
     MARGINAL_SIZE=`expr $SIZE - $REACT_BASE_SIZE`
     echo "Marginal size of $1 after min and gzip:" `numfmt --to=iec-i --suffix=B $MARGINAL_SIZE`
 }
-webpackMinGzip relay
+webpackMinGzip relay-classic
+webpackMinGzip relay-modern
 webpackMinGzip apollo
-webpackMinGzip lokka
