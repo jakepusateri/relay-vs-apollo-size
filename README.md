@@ -1,4 +1,4 @@
-This repo is a demonstration of the current sizes of an app with `relay` vs `apollo-client` vs `lokka`.
+This repo is a demonstration of the current sizes of an app with `relay-classic` vs `relay-modern` vs `apollo-client`.
 
 A `react` + `react-dom` base is used as a comparison. Each library is then added and the resulting bundle sizes are compared.
 

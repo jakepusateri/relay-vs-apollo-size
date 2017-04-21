@@ -12,8 +12,6 @@
   "dependencies": {
     "apollo-client": "^1.0.4",
     "babel-relay-plugin": "^0.11.0",
-    "lokka": "^1.7.0",
-    "lokka-transport-http": "^1.6.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-relay": "^1.0.0-rc.2",
