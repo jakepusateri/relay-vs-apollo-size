@@ -4,7 +4,7 @@ A `react` + `react-dom` base is used as a comparison. Each library is then added
 
 Run `sh sizes.sh` to generate:
 
-React 16
+# React 16
 
 ```
 React base size is: 34KiB
