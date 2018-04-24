@@ -1,3 +1,3 @@
 require('react');
 require('react-dom');
-require('apollo-client');
+require('apollo-boost');
